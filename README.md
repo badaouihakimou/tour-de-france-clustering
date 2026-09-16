@@ -1,11 +1,5 @@
 # Dessiner le Tour de France : clustering et optimisation de tournées
 
-[![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/badaouihakimou/tour-de-france-clustering/blob/main/projet_03.ipynb)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 > Comment répartir 120 villages français en 21 étapes cohérentes, puis trouver dans chacune
 > l'ordre de passage le plus court ?
 
