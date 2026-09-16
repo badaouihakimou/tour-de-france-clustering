@@ -170,5 +170,5 @@ supervisée (score de silhouette), projection de coordonnées géographiques, fo
 problème du voyageur de commerce, heuristiques gloutonnes, recherche locale 2-opt, explosion
 combinatoire.
 
-Exercice issu du [Cahier de Vacances Data](https://machinelearnia.com/) de Machine Learnia
+Exercice issu de Machine Learnia
 (Guillaume Saint-Cirgue). Le code, l'analyse critique et la Partie 5 sont les miens.
